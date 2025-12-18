@@ -12,3 +12,16 @@ Linux is the foundation of cybersecurity tools and servers.
 
 ## Tools
 - Kali Linux (Virtual Machine)# Linux-Basics
+## Day 1 Practice (Kali Linux)
+
+Commands learned and practiced:
+- whoami
+- pwd
+- ls
+- cd
+- mkdir
+- touch
+- cat
+- rm
+- sudo
+  
